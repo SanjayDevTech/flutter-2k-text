@@ -2,4 +2,4 @@
 
 This is an experiment to test Flutter performance
 
-To see performance reports: https://performance-benchmark-android.vercel.app/2k-text/reports/reports.html
+To see performance reports: https://github.com/SanjayDevTech/performance-benchmark-android/tree/main/2k-text
